@@ -6,6 +6,10 @@ A modern 3D portfolio website showcasing my UI/UX and frontend development skill
 
 Check out the live demo: [Varun's Portfolio](https://varun2808-portfolio.netlify.app)
 
+## 📂 Repository
+
+GitHub Repository: [https://github.com/vkk28/Varun-Portfolio](https://github.com/vkk28/Varun-Portfolio)
+
 ## 🛠️ Technologies Used
 
 - React.js
@@ -47,6 +51,7 @@ Check out the live demo: [Varun's Portfolio](https://varun2808-portfolio.netlify
 - Email: kashyap.varun2808@gmail.com
 - Location: Danapur Cantt, Bihar
 - Phone: +91-9508724139
+- GitHub: [vkk28](https://github.com/vkk28)
 
 ## 🔗 Deployment
 
@@ -54,15 +59,22 @@ This project is deployed on Netlify: [https://varun2808-portfolio.netlify.app](h
 
 ## 🛠️ Installation and Setup
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vkk28/Varun-Portfolio.git
+   cd Varun-Portfolio
+   ```
+
 2. Install dependencies:
    ```bash
    npm install
    ```
+
 3. Run development server:
    ```bash
    npm run dev
    ```
+
 4. Build for production:
    ```bash
    npm run build
